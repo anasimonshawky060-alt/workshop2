@@ -1,3 +1,14 @@
-let myfrinds = ["ana", "simon" , "eli"];
+const userNameNew
 
-console.log(`Hello ${ myfrinds[1]}`);
+
+
+
+
+
+
+
+
+
+
+
+
