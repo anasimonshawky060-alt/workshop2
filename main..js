@@ -19,7 +19,7 @@ for (i = 0 ; i < 10 ; i++ ) {
         console.log(i);
         
 }
- 
+
 4
 const arr = [1 , 2 , 3, 4, 5]
 const x = arr.filter ((ele)=> {
@@ -141,7 +141,7 @@ function max (arr){
  max(1 , 3 , 7, 2 , 4)
 console.log( max([1 , 3 , 7, 2 , 4]));
 
- /*14
+ 14
 function sum (name , age){
     return ["name" , "age"]
 }
@@ -164,7 +164,7 @@ B  1- for each
 بيعدي ع كل العناصر اللي ف array و ينفذ ال condicion
 مش بيدي undifined
 تنفذ في العمليات البسيطة على كل عنصر في الاراي
-
+ await تقبل لا 
 
 
 for of 
@@ -212,7 +212,7 @@ Number("20")
 type coercion 
 بتتحول لوحدها بالجافا سكربت 
 "5" + 3 
-53 */
+53 
 
  
 
